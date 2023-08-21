@@ -1,3 +1,5 @@
+![image](https://github.com/MixedRealityToolkit/.github/assets/36461279/1f1435ac-a61d-4c16-a36b-320f05c54701)
+
 # Mixed Reality Toolkit Organization
 
 The Mixed Reality Toolkit (MRTK) Contributors maintain the latest version for the Mixed Reality Toolkit for Unity project. 
